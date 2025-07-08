@@ -28,4 +28,4 @@ export function Renderer({ sections }: RendererProps) {
     </div>
   );
 }
-                                            
+                                             
