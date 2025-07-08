@@ -13,4 +13,4 @@ export const ComponentRegistry: Record<SectionType, any> = {
   gallery: dynamic(() => import('@/components/sections/GallerySection')),
   stats: dynamic(() => import('@/components/sections/StatsSection')),
 };
-                                           
+                                            
