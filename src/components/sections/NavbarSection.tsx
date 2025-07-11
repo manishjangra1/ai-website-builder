@@ -59,4 +59,4 @@ export default function NavbarSection({ logo, links, cta, isEditing }: NavbarPro
     </motion.nav>
   );
 }
-                                 
+                                  
