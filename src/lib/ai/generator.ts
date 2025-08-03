@@ -62,4 +62,4 @@ export async function generateWebsite(prompt: string): Promise<WebsiteData> {
   const data = JSON.parse(content);
   return PageSchema.parse(data);
 }
-                    
+                     
