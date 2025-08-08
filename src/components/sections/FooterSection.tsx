@@ -30,4 +30,4 @@ export default function FooterSection({ copyright, links }: FooterProps) {
     </footer>
   );
 }
-   
+    
