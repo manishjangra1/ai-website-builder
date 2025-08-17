@@ -9,4 +9,4 @@ export default function FAQSection(props: any) {
     </section>
   );
 }
-      
+       
