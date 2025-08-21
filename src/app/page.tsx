@@ -151,4 +151,4 @@ export default function LandingPage() {
 
 // Quick fix for the Zap icon reference case sensitivity
 const zap = Zap;
-   
+    
